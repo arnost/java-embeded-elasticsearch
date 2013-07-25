@@ -24,4 +24,5 @@ gwt-unitCache
 bus.bloat
 .*.swp
 .*.swo
+.gradle
 
